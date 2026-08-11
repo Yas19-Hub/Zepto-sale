@@ -1,2 +1,2 @@
 # Zepto-sale
-this is sale for zepto still in work
+this is sale for zepto still working
