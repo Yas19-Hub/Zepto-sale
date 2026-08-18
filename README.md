@@ -19,7 +19,6 @@
 ## 📌 Project Overview
 
 This project analyzes a Zepto product dataset to understand **product performance, pricing strategies, discount patterns, estimated sales value, and inventory availability**.
-
 The project combines **Python-based data analysis and Power BI visualization** to transform raw product-level data into meaningful business insights.
 
 The final Power BI dashboard provides an interactive view of:
