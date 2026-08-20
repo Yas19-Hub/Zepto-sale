@@ -13,7 +13,6 @@
 <p align="center">
   <b>End-to-End Product Analytics Project using Python & Power BI</b>
 </p>
-
 ---
 
 ## 📌 Project Overview
